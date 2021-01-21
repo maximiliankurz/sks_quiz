@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+sks_quiz_v1.py
+Kleines Quiz um die SKS-Theoriefragen zu üben. Alle Fragen kommen von ELWIS (https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Fragenkatalog-SKS-node.html)
+Date: 21/01/2021
+License: MIT
+"""
+
 import csv
 import pickle
 import random
